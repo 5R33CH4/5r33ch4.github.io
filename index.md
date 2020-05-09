@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Welcome to 5R33CH4's GitHub Website 
+  Introducing you to the Heaven Of Programming Content
 
-You can use the [editor on GitHub](https://github.com/5R33CH4/5r33ch4.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+5R33CH4's Repositorys are Aimed to help even people with literally no Knoledge on Programming !!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About 5R33CH4's Repositories
+5R33CH4's Repos mostly are based on hacking and learning.
+It consists of 
+         - various Source Codes of Various top reputed Video Games and Software
+         - Hacking And Craking tools and Programs
+         - Checkers and Brute-Force
+         - List of free eBooks and Programing Courses
+         - Dll injectors
+         - Bypassers, Hooks and Driver mappers
+         - and much more ....
 
-### Markdown
+## About 5R33CH4's Codes
+My Programs are Mostly written in Python, C++, C, JavaScript, or VBScript
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How To use the codes
+Since all my codes are Unique and Different, I will post a Tutorial on my [YouTube Channel](https://www.youtube.com/channel/UC8uY0jcC59OHUfHRRKRTPug).
+DM me to get the link as the videos will be posted as Unlisted ( Only through Link Sharing ).
 
-```markdown
-Syntax highlighted code block
+## About Me
+I'm a Casual Gamer and a Part-Time Programmer. I am also a active member in many gaming and Tech Forums. I am an aspiring Hacker and Coder who wants to make an impact on the gaming field. I enjoy Maths and Science and Listening to Songs.[Check out my Spotify Playlists If you too have a good sense of Music](https://open.spotify.com/user/sreecharan.s?si=I7wS9r8CQBqyqhcgRkHBPA)
+I Have a huge fanbase in [Twitch](https://twitch.tv/twitch_candyx).
+My Fortnite Creator Code : 5R33CH4 & Candy4Real ( Support Me If You Can )
 
-# Header 1
-## Header 2
-### Header 3
+I mainly play Apex Legends, Valorant, Counter-Strike:Global Offensive, Overwatch, Call of Duty : Warzone, Brawlhalla, and Minecraft.
 
-- Bulleted
-- List
+## 5R33CH4's Discord Server
+I constantly post Exclusive content in my server. I also Conduct Giveways once a month. Members in my Descord Server Also get additional Exclusive content.
 
-1. Numbered
-2. List
+If interested, Join My [Discord](https://discord.gg/49bVJEg)
 
-**Bold** and _Italic_ and `Code` text
+## Support or Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/5R33CH4/5r33ch4.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having Trouble or just want to talk, Contact me Through 
+  Discord : Candy#9950
+  Instagram : @sreecharan_the_great
+  
+## My Other Socials
+https://streamerlinks.com/5R33CH4
