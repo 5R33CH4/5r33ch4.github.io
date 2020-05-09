@@ -6,7 +6,6 @@
 ## About 5R33CH4's Repositories
 5R33CH4's Repos mostly are based on hacking and learning.<br>
 It consists of <br>
-
          - various Source Codes of Various top reputed Video Games and Software<br>
          - Hacking And Craking tools and Programs<br>
          - Checkers and Brute-Force<br>
