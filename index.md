@@ -31,11 +31,11 @@ I Have a huge fanbase in [Twitch](https://twitch.tv/twitch_candyx).<br>
 My Fortnite Creator Code : 5R33CH4 & Candy4Real ( Support Me If You Can )
 
 I mainly play Apex Legends, Valorant, Counter-Strike:Global Offensive, Overwatch, Call of Duty : Warzone, Brawlhalla, and Minecraft.
-<br>
+<br> <br>
 Apart from Video Games, I am an Art Enthuiast and am a good Artist. I am a Pro Badminton Player. My Other Hobbies include Photography, Photoshop, Cricket, reading Books.
 
 ## 5R33CH4's Discord Server
-I constantly post Exclusive content in my server. I also Conduct Giveways once a month. Members in my Descord Server Also get additional Exclusive content.<br>
+I constantly post Exclusive content in my server. I also Conduct Giveways once a month. Members in my Discord Server Also get additional Exclusive content.<br>
 <br>
 If interested, Join My [Discord](https://discord.gg/49bVJEg)
 
