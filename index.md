@@ -1,7 +1,11 @@
 ## Welcome to 5R33CH4's GitHub Website 
   Introducing you to the Heaven Of Programming Content<br>
 <br>
-5R33CH4's Repositorys are Aimed to help even people with literally no Knoledge on Programming !!!
+5R33CH4's Repositories are Aimed to help even people with literally no Knoledge on Programming !!!
+
+## 5R33CH4's GitHub Profile
+Overview : https://github.com/5R33CH4
+Repositories : https://github.com/5R33CH4?tab=repositories
 
 ## About 5R33CH4's Repositories
 5R33CH4's Repos mostly are based on hacking and learning.<br>
@@ -28,6 +32,8 @@ I Have a huge fanbase in [Twitch](https://twitch.tv/twitch_candyx).<br>
 My Fortnite Creator Code : 5R33CH4 & Candy4Real ( Support Me If You Can )
 
 I mainly play Apex Legends, Valorant, Counter-Strike:Global Offensive, Overwatch, Call of Duty : Warzone, Brawlhalla, and Minecraft.
+<br>
+Apart from Video Games, I am an Art Enthuiast and am a good Artist. I am a Pro Badminton Player. My Other Hobbies include Photography, Photoshop, Cricket, reading Books.
 
 ## 5R33CH4's Discord Server
 I constantly post Exclusive content in my server. I also Conduct Giveways once a month. Members in my Descord Server Also get additional Exclusive content.<br>
